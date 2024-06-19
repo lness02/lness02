@@ -1,8 +1,4 @@
-Hi, I’m Laura Ness! I'm a passionate, dedicated, and hard-working computer science and engineering major at UCLA. I'm involved in various clubs at UCLA, including ACM (Association of Computing Machinery) Studio and Cyber, as well as Upsilon Pi Epsilon (UPE). I seek out every opportunity to learn something new, whether it be developing a mobile app SDK to developing games in Unity as part of a team in Game Jams. My leadership skills, sense of responsibility and loyalty, and positive demeanor make me a great team player.
-
-Whether it be figuring out the cause of a bug in my code or pushing to complete project deadlines, I put my all into everything I do, and should I fail, I strive to do better. I want to create a better future by creating inspired and innovative technology that will impact many for years to come. 
-
-Contact me if you want to collaborate with me on anything! I'd be happy to join. 
+Hello! I'm currently a 4th year Computer Science major at UCLA. I'm involved in various clubs at UCLA, including Association of Computing Machinery (ACM) Studio and Upsilon Pi Epsilon (UPE). I'm interested in data science, game development, and cybersecurity, though I'm open to trying anything software development-related. Whether it be leading a team to develop a rogue-like deck builder in Unity to learning mathematical principles behind cryptography, I want to learn more. Every project, whether individual or in a group, is a great learning opportunity, which is why I've sought out group projects in game jams, Student Run Studios (SRS), and hackathons. In putting what I've learned into practice, I want to create a better future by creating inspired and innovative technology that will impact many for years to come. 
 
 Reach me at lness@ucla.edu, or check out my LinkedIn [here](https://www.linkedin.com/in/laura-ness-39921b223/).
 
